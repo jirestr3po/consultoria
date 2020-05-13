@@ -1,3 +1,3 @@
 # consultoria
 proyectos de consultoria organizacional
-proyecto de evaluacion psicosocial
+proyecto de evaluacion psicosocial /
